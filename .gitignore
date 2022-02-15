@@ -71,7 +71,6 @@ typings/
 
 # my node-red project
 data/
-!/data/settings.js
 
 # my project
 dist/
